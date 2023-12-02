@@ -8,3 +8,15 @@
 sudo apt install zenity
 sudo apt install yad
 ```
+
+### بعد از نصب کردن این موارد ما باید plugin پایین رو داخل .vimrc خودمون نصب کنیم
+
+```
+Plug 'KabbAmine/vCoolor.vim'
+```
+
+### الان برای استفاده کردن از اون کافیه ابتدا cursor رو جایی که میخوایم کد رنگ رو بنویسیم قرار بدیم بعد دستور :VCoolor رو توی مود command اجرا کنیم تا اون پنجره برای ما باز شه
+
+```
+:VCoolor
+```
