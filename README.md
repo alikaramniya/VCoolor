@@ -4,6 +4,7 @@
 
 ### برای نصب کردن داخل لینوکس ما باید اول از همه یکی از دو پکیج زیر رو داشته باشیم
 
+
 ‍‍‍```
 sudo apt install Zenity
 ```
@@ -13,7 +14,9 @@ sudo apt install Zenity
 sudo apt install yad
 ```
 
+
 ### بعد از نصب کردن این موارد ما باید plugin پایین رو داخل  .vimrc خودمون نصب کنیم
+
 ```
 Plug 'KabbAmine/vCoolor.vim'
 ```
@@ -23,7 +26,9 @@ Plug 'KabbAmine/vCoolor.vim'
 ```
 :VCoolor
 ```
+
 ### علاوه بره :VCoolor ما میتونیم از کامند های پایین هم استفاده کنیم که تفاوت اون ها توی
+
 ```
 :VCoolor
 :VCoolIns r " For rgb color insertion
