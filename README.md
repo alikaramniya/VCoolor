@@ -20,3 +20,12 @@ Plug 'KabbAmine/vCoolor.vim'
 ```
 :VCoolor
 ```
+
+### علاوه بره :VCoolor ما میتونیم از کامند های پایین هم استفاده کنیم که تفاوت اون ها توی
+
+```
+:VCoolor
+:VCoolIns r " For rgb color insertion
+:VCoolIns h " For hsl color insertion
+:VCoolIns ra " For rgba color insertion
+```
