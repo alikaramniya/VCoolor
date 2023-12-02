@@ -8,7 +8,6 @@
 sudo apt install Zenity
 ```
 
-### or
 
 ```
 sudo apt install yad
